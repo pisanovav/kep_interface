@@ -1,6 +1,6 @@
 # Interface to KEP economic statistics in R
 
-KEP is a Rosstat database of short-term economic indicators on Russian economic conditions.
+KEP is a Rosstat database of short-term economic indicators of Russian economy performance.
 
 ```get.zoo.kep()``` in [kep_interface.r](kep_interface.r) is an access function to get ```zoo```-type time series by name from KEP. Can also write to local .csv file by ```write.csv.kep()```.
 
