@@ -11,6 +11,6 @@ cpi = get.zoo.kep('CPI_rog','m')
 write.csv.kep('CPI_rog','m')
 ```
 
-For more information on database see:
+For more information on the database see:
  - <https://github.com/epogrebnyak/rosstat-kep-data> - root folder
  - <https://raw.githubusercontent.com/epogrebnyak/rosstat-kep-data/master/output/varnames.md> - available time series codes
