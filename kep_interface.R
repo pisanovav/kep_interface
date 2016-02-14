@@ -65,6 +65,6 @@ write.csv.kep <- function(id,frequency,start.date=NULL,end.date=NULL)
 # YOUR CODE #
 #############
 
-source("kep_interface.R") # File with the interface code should be saved in a current working directory.
+source("kep_interface.R") # File with the interface code should be saved in your current working directory.
 
 # ...
