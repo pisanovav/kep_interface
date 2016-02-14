@@ -4,9 +4,9 @@
 # Author(s): Evgeny Pogrebnyak, Alexander Pisanov.
 #
 # Entry points:
-# id = 'CPI_rog', frequency = 'a'
-# get.zoo.kep(id,frequency)
-# write.csv.kep(id,frequency)
+#   id = 'CPI_rog', frequency = 'a'
+#   get.zoo.kep(id,frequency)
+#   write.csv.kep(id,frequency)
 #
 # Todo: function tests.
 
