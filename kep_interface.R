@@ -1,4 +1,4 @@
-# Purpose: access interface to Rosstat KEP database by Evgeny Pogrebnyak to retrieve 'zoo' class time-series.
+# Purpose: access interface to Rosstat KEP database by Evgeny Pogrebnyak to retrieve 'zoo' class time series.
 # Database URL: https://github.com/epogrebnyak/rosstat-kep-data.
 # Code URL: https://github.com/pisanovav/kep_interface.
 # Author(s): Evgeny Pogrebnyak, Alexander Pisanov.
